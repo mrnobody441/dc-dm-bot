@@ -1,11 +1,3 @@
-# mass-dm-discord
-
-<img src="https://cdn.discordapp.com/attachments/821292429470466078/901142180461166662/unknown.png" width="600"/>
-<img src="https://cdn.discordapp.com/attachments/821292429470466078/901141863581499412/unknown.png" width="600"/>
-<img src="https://cdn.discordapp.com/attachments/890913525017505792/904703804673523742/unknown.png" width="300"/>
-- Little preview of the Logger and the Spammer and the Embed too
-                
-
 ### Features
 
 - Logging User IDS
