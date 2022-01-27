@@ -15,11 +15,11 @@ from discord.ext import commands
 ##############################################
 #
 #
-#           PLEASE EXECUTE
+#           PLEASE DM
 #
-#        DMs_SPAMMER_ADDON.py
+#           Pukoa#0306
 #
-#       FOR BETTER PERFORMANCE
+#      FOR  HELP AND FEEDBACK!
 #
 #
 ##############################################
