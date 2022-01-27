@@ -11,20 +11,6 @@ from colorama import Fore
 from datetime import datetime
 from discord.ext import commands
 
-
-##############################################
-#
-#
-#           PLEASE DM
-#
-#           Pukoa#0306
-#
-#      FOR  HELP AND FEEDBACK!
-#
-#
-##############################################
-
-
 def error_msg():
     print(pyfade.Fade.Horizontal(pyfade.Colors.purple_to_red, """Bruhhhh\nSeems like you\'re new to Python and/or JSON..\nPlease execute DMs_SPAMMER_ADDON.py for further help"""))
     time.sleep(10)
